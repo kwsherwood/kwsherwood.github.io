@@ -17,4 +17,21 @@ Digital Humanities Center
 Founder, co-director
 Type lots of details here.
 Website [IUPDHC.org](http://www.iupdhc.org/)
-> Written with [StackEdit](https://stackedit.io/).
+
+---
+Here are some other samples of how code looks: 
+
+- list item
+- list item 
+- list item
+
+Numbered list
+
+1. first
+2. then more
+3. then more
+
+And *this* is a nice blockquote:
+
+> who was it that wanted to style things in the following way?
+
